@@ -3,7 +3,6 @@ title: "Codify"
 datePublished: Sat Apr 06 2024 18:29:54 GMT+0000 (Coordinated Universal Time)
 cuid: cluofj7js000608lggxdi5efb
 slug: codify
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1712428182918/63ad9ff0-42f2-4414-8e03-8adcb20fa97c.png
 tags: hacking, cybersecurity, hackthebox, cybersecurity-1, oscp, cybersec, hackthebox-machine
 
 ---
