@@ -119,7 +119,7 @@ vcan0: The virtual CAN interface
 00 00 C0 1A A8 00 00 22: The message data (limited to 8 bytes)
 ```
 
-very ECU (Electronic control unit) responds according to the arbitration ID which is used to identify if the message is for it or not. **The lower the arbitration ID, the higher the priority of the message in case multiple ECUs start sending messages at the same time**. Once identified the action is undertaken by ECU from the message data.
+Every ECU (Electronic control unit) responds according to the arbitration ID which is used to identify if the message is for it or not. **The lower the arbitration ID, the higher the priority of the message in case multiple ECUs start sending messages at the same time**. Once identified the action is undertaken by ECU from the message data.
 
 We can also see this data inside wireshark by selecting the `vcan0` interface.
 
